@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 const HomeDetails = styled.div`
-    background: url('https://images.unsplash.com/photo-1475738972911-5b44ce984c42?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=1080') no-repeat center;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.8)), url('https://images.unsplash.com/photo-1475738972911-5b44ce984c42?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&q=1080') no-repeat center;
     
     .home {
         display: flex;
